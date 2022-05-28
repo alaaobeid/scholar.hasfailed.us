@@ -139,6 +139,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
 - **Liam Egan** (The Sainsbury Laboratory)
+- **Alaa Elobaid** (Ph.D. student, FU Berlin)
 - **Michael Ensly**
 - **Claire Elek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
